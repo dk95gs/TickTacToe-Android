@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment01</string>
+    <string name="playerX">Player X Turn</string>
+    <string name="playerO">Player O Turn</string>
+</resources>
